@@ -148,7 +148,7 @@ StudentCourseApp/
 
 ## 👨‍🎓 Author
 
-Made by **Chaithravardhan Reddy Chepati** 👨‍💻  
+Made by **Homeshwar Ganjalla** 👨‍💻  
 B.Tech Student | Learning Java & Databases | Built this for practical learning and interview preparation.
 
 
