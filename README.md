@@ -1,5 +1,4 @@
 # Student Management
-A simple Java console-based Calculator application that allows users to perform various Arithmetic operations 
 📚 Student-Course Management App
 This is a JavaFX + MySQL desktop application that allows you to Insert, Update, Delete, and Fetch student and course details using a simple graphical user interface.
 
